@@ -1,0 +1,5 @@
+In Python you can create lists
+In Python you can create objects called dictionaries
+In Python you can create classes
+In Python you can make instances of classes
+In Python you can access the contents of other files
